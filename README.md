@@ -1,2 +1,1 @@
-# bootcamp-dio-santander
-Projeto criado para o bootcamp DIO - Santander
+# semana_santander_api_cotacoes
